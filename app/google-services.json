@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "879282714074",
+    "firebase_url": "https://agendacomfirebasefatecipitarde.firebaseio.com",
+    "project_id": "agendacomfirebasefatecipitarde",
+    "storage_bucket": "agendacomfirebasefatecipitarde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879282714074:android:dcff88cf1233f857",
+        "android_client_info": {
+          "package_name": "br.com.bossini.agendacomfirebasefatecipitarde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879282714074-imde6f38op8ari9pbihmrb5h2ac7g2e3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.bossini.agendacomfirebasefatecipitarde",
+            "certificate_hash": "db6f41fde9ae3c237578cb9cace118a37b5067f7"
+          }
+        },
+        {
+          "client_id": "879282714074-8tm5inpo6rjads3bcl13ktmhbvi9octr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmXHp8hggabCdJURXIZCWNS78opZN63ck"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879282714074-8tm5inpo6rjads3bcl13ktmhbvi9octr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
